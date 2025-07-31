@@ -1,4 +1,5 @@
 import { useState } from "react";
+// import { StarRating } from "./";
 
 const tempMovieData = [
   {
